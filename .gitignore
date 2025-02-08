@@ -1,8 +1,2 @@
 # Ignore environment variables file
 .env
-
-# Ignore questions.json file
-data/questions.json
-
-# Ignore config folder
-config/
